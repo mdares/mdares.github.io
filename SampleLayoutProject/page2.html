@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="css/page2.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <p>Examples of thinks you need to do:</p>
+
+    <h2>Media Queries with columns</h2>
+
+    <article>
+        <div class="row">
+            <div class="column" style="background-color:#aaa;">
+                <h2>Column 1</h2>
+                <p>Some text..</p>
+            </div>
+
+            <div class="column" style="background-color:#bbb;">
+                <h2>Column 2</h2>
+                <p>Some text..</p>
+            </div>
+
+            <div class="column" style="background-color:#ccc;">
+                <h2>Column 3</h2>
+                <p>Some text..</p>
+            </div>
+
+            <div class="column" style="background-color:#ddd;">
+                <h2>Column 4</h2>
+                <p>Some text..</p>
+            </div>
+        </div>
+    </article>
+<h2> A table with interesting features:</h2>
+<table>
+    <caption>My interesting Table</caption>
+    <colgroup>
+        <col class="aCol"/>
+        <col class="bCol"/>
+        <col class="cCol" span="2"/>
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Position Type</th>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Sub-position</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Infield</td>
+            <td>Joe</td>
+            <td colspan="2">Short Stop</td>
+        </tr>
+        <tr>
+            <td>Jim</td>
+            <td colspan="2">Catcher</td>
+        </tr>
+        <tr>
+            <td>James</td>
+            <td>Base</td>
+            <td>First</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Outfield</td>
+            <td>Jenny</td>
+            <td >Field</td>
+            <td >Right</td>
+        </tr>
+        <tr>
+            <td>Jessica</td>
+            <td colspan="2">Rover</td>
+        </tr>
+        <tr>
+            <td>Jonean</td>
+            <td>Field</td>
+            <td>Left</td>
+        </tr>
+
+    </tbody>
+</table>
+
+</body>
+
+</html>

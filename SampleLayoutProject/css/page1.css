@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.contentBox p {
+    font-size: 3em;
+    font-weight: bold;
+    color: thistle;
+}
+.divButton {
+    width: 100px;
+    height: 30px;
+    background-color: rgba(55, 55, 55, .9);
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    color: wheat;
+    font-weight: bold;
+
+}
+.divButton:hover {
+    color: rgba(55, 55, 55);
+    background-color:wheat;
+}
+
+#contentbox {
+    position:absolute;
+    left: 500px;
+    top: 400px;
+    background-color: rgba(146, 180, 160, 0.9);
+    padding:20px;
+    border-radius: 15px;
+    
+}
+article {
+    position: relative;
+}
+article img {
+    width: 100%;
+    height: auto;
+}

@@ -1,1 +1,1 @@
-Welcome to File Management for TAP Students! When you are ready access the file Step1.txt in this folder.
+Welcome to File Management for TAP Students! When you are ready modify the jQuery call in the Javascript window to access the file "Step1.txt" in this folder.

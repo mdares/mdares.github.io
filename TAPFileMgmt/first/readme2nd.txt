@@ -1,1 +1,1 @@
-From this folder go to the folder second2 and get the file: readme3rd.txt
+In this folder there is a folder named "second2". The file you want is in that folder and is named "readme3rd.txt".

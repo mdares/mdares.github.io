@@ -1,0 +1,1 @@
+From here go to the relative path: first/second/third and access the file readme1st.txt

@@ -1,2 +1,2 @@
-How old is that meme anyway??? Add this line to the HTML block above where is says <!--placeholder-->:
+Or maybe it wasn't! If you got the picture your done! If you see HTML below add this line to the HTML block above where is says <!--placeholder-->:
 <img src="https://mdares.github.io/TAPFileMgmt/end.png" />

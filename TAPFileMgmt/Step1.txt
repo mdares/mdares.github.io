@@ -1,1 +1,1 @@
-From here go to the relative path: first/second/third and access the file readme1st.txt
+From this same root URL go to the relative path: first/second/third to get to the file readme1st.txt

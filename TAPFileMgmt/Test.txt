@@ -1,1 +1,1 @@
-Welcome to File Management for TAP Students!
+Welcome to File Management for TAP Students! When you are ready access the file Step1.txt in this folder.

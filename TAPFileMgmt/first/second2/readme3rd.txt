@@ -1,1 +1,1 @@
-From here go back to the TAPFileMgmt root and get the file movingOn.txt
+From here go back to the folder "TAPFileMgmt" and get the file "movingOn.txt"

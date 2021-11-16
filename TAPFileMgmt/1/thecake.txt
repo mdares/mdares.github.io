@@ -1,1 +1,1 @@
-The cake is a lie. You fall through a door - go up one directory to end/theend.txt
+The cake is a lie! You fall through a door - go up one directory to and get the file: "end/theend.txt".
